@@ -1,0 +1,33 @@
+html{
+  padding:10px 50px;
+}
+body{
+  background-color: #C0C0C0;
+}
+form{
+  background-color: #ffffff;
+  padding:10px 30px;
+  border-radius: 5px;
+  margin:10px;
+}
+ul{
+  padding:0px;
+}
+.comment_container{
+  overflow: hidden;
+  font-size: 20px;
+  list-style: none;
+  background-color: #ffffff;
+  padding:10px 30px;
+  margin:10px 10px;
+  border-radius: 5px;
+}
+.comment_container input{
+  margin:5px;
+}
+.error{
+  color:red;
+}
+.comment_container .postedMedia{
+  width: 200px;
+}
